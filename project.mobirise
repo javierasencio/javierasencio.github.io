@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Javier Asencio",
-    "currentPage": "Introduction",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 209,
+    "uniqCompNum": 210,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -166,38 +166,59 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Introduction\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION</a> "
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
+          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-5r",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5t",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/website-hyperlink-background-2000x832.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
+            "inverse": true,
             "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "showText": false,
+            "showButtons": true
           },
-          "title": "A Little Bit About Myself",
-          "text": "<p>.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=-GTzmlIE58I\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Link</a>"
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=-GTzmlIE58I",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "A Little bit About Me...",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">YouTube Link</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_styles": {
