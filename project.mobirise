@@ -172,7 +172,8 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#000000"
             }
           },
           "_tags": [
