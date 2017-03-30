@@ -480,8 +480,13 @@ h6,
 #header1-45 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
 }
-#msg-box4-5t .btn {
-  font-size: 14px;
+#msg-box8-60 .mbr-section-title,
+#msg-box8-60 p {
+  color: #fff;
+}
+#msg-box8-60 .mbr-section-title {
+  text-align: center;
+  font-size: 48px;
 }
 #header3-50 .mbr-section-title,
 #header3-50 .mbr-section-subtitle {

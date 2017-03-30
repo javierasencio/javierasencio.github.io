@@ -21,17 +21,12 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 216,
-    "versionPublish": "3.10.8",
+    "uniqCompNum": 217,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "gitHubName": "javierasencio",
-    "gitHubPath": ""
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -171,59 +166,42 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Introduction\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION</a> "
         },
         {
-          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "48px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_styles": {
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "msg-box4-5t",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-60",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
             "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
             "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "showText": true,
+            "showButton": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=-GTzmlIE58I",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "A Little bit About Me...",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=-GTzmlIE58I\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Link</a>"
+          "title": "A Little About Me<br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=-GTzmlIE58I\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Video Link</a>"
         },
         {
           "_styles": {
@@ -239,7 +217,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Four of my examples",
@@ -304,7 +282,7 @@
             "spacing": 1,
             "showText": true,
             "filter": false,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -561,7 +539,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Adobe Illustrator",
@@ -700,7 +678,7 @@
             "spacing": "0",
             "showText": true,
             "filter": false,
-            "bgColor": "#bababa",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -937,7 +915,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Adobe Photoshop",
@@ -979,7 +957,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/battlefront-with-fixed-measures-2000x1676-800x670.jpg",
                 "image": "@PROJECT_PATH@/assets/images/battlefront-with-fixed-measures-2000x1676.jpg",
-                "caption": "Recorded actions",
+                "caption": "Recorded actions in Photoshop&nbsp;",
                 "active": false
               },
               {
@@ -1049,7 +1027,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Famous Drawing Progression",
@@ -1335,7 +1313,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Adobe Animation",
@@ -1350,7 +1328,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "bgColor": "#ffffff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"javierasencio.github.io/Apple animation revised.fla\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD APPLE ANIMATION</a> "
         },
@@ -1697,7 +1675,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "123D",
@@ -1712,7 +1690,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"javierasencio.github.io/Javier Asencio iphone case with logo.123dx\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD IPHONE CASE&nbsp;</a> "
         },
@@ -2019,7 +1997,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Adobe Premire",
@@ -2350,7 +2328,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Adobe Dreamwever",
@@ -3958,7 +3936,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Adobe LightRoom",
