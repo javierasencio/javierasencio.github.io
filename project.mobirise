@@ -173,7 +173,7 @@
             ".mbr-section-title": {
               "text-align": "center",
               "font-size": "48px",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_tags": [
