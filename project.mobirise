@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 217,
+    "uniqCompNum": 218,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -180,7 +180,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-60",
+          "_anchor": "msg-box8-61",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
