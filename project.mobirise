@@ -724,20 +724,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/front-of-post-card-with-fixed-measurement-2000x1640-1-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/front-of-post-card-with-fixed-measurement-2000x1640-1.jpg",
-                "caption": "Front Side of the post card",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/back-side-of-the-post-card-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/back-side-of-the-post-card-2000x1640.jpg",
+                "caption": "Back Side of the post card",
+                "active": true
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/back-side-of-the-post-card-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/back-side-of-the-post-card-2000x1640.jpg",
-                "caption": "Back Side of the post card",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/front-of-post-card-with-fixed-measurement-2000x1640-1-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/front-of-post-card-with-fixed-measurement-2000x1640-1.jpg",
+                "caption": "Front Side of the post card",
+                "active": false
               },
               {
                 "tags": "Creative",
