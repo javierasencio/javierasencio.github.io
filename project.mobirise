@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 222,
+    "uniqCompNum": 223,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -707,7 +707,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/blob-brush-build-with-fixed-meausrements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/blob-brush-build-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "Blob Brush Build",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -717,6 +717,46 @@
                 "thumb": "@PROJECT_PATH@/assets/images/measurements-part-3-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/measurements-part-3-2000x1640.jpg",
                 "caption": "Vintage Tv Build",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/front-of-post-card-with-fixed-measurement-2000x1640-1-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/front-of-post-card-with-fixed-measurement-2000x1640-1.jpg",
+                "caption": "Front Side of the post card",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/back-side-of-the-post-card-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/back-side-of-the-post-card-2000x1640.jpg",
+                "caption": "Back Side of the post card",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/valks-wagen-logo-with-fixed-measurements-2000x1640-1-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valks-wagen-logo-with-fixed-measurements-2000x1640-1.jpg",
+                "caption": "Vintage Tv Build",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/outline-of-a-lightning-with-fixed-measurements-2000x1640-1-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/outline-of-a-lightning-with-fixed-measurements-2000x1640-1.jpg",
+                "caption": "Lightning build",
                 "active": false
               }
             ],
@@ -3013,6 +3053,19 @@
             "bgColor": "#ffffff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"javierasencio.github.io/Javier Asencio iphone case with logo.123dx\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD IPHONE CASE&nbsp;</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-66",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"javierasencio.github.io/Javier Asencio binder clip finished version.123dx\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD 3D PAPER CLIP</a> "
         },
         {
           "_tags": [
