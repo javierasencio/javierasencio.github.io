@@ -1084,6 +1084,16 @@
                 "image": "@PROJECT_PATH@/assets/images/wynwood-poster-with-fixed-measurements-2000x1640.jpg",
                 "caption": "Wynwood poster build \"If Walls Could Talk\"",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/front-and-back-of-the-cd-cover-with-fixed-measurements-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/front-and-back-of-the-cd-cover-with-fixed-measurements-2000x1640.jpg",
+                "caption": "Back of the cd cover",
+                "active": false
               }
             ],
             "spacing": 0,
