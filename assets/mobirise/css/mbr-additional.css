@@ -496,6 +496,12 @@ h6,
 #gallery3-4f .mbr-gallery-item > div > span {
   text-align: center;
 }
+#form2-65 .mbr-section-title {
+  color: #fff;
+}
+#form2-65 .mbr-section-subtitle {
+  color: #efefef;
+}
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
