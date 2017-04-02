@@ -146,7 +146,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1454165205744-3b78555e5572-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -173,7 +173,7 @@
             ".mbr-section-title": {
               "text-align": "center",
               "font-size": "48px",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -185,10 +185,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -200,7 +200,7 @@
             "showText": true,
             "showButton": true
           },
-          "title": "A Little Bit About Me<br>",
+          "title": "Watch My Story&nbsp;",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=-GTzmlIE58I\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Video Link</a>"
         },
