@@ -26,7 +26,12 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "javierasencio",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -3386,7 +3391,7 @@
                 "tags": "Awesome",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=oA15nCBRtM0",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-03-13-43-46.jpg",
+                "videoPreview": "@PROJECT_PATH@/2017-04-03_13-43-46.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
                 "caption": "A Little Bit About Myself",
