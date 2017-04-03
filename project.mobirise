@@ -202,7 +202,7 @@
           },
           "title": "Watch My Story&nbsp;",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=-GTzmlIE58I\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Video Link</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=vXfBeIcNkA4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Video Link</a>"
         },
         {
           "_styles": {
@@ -3385,8 +3385,8 @@
               {
                 "tags": "Awesome",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=-GTzmlIE58I",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-27-23-11-15.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=vXfBeIcNkA4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-02-21-29-54.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
                 "caption": "A Little Bit About Myself",
