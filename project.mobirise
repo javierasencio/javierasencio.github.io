@@ -22,16 +22,11 @@
     },
     "versionFirst": "3.10.8",
     "uniqCompNum": 225,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "publishPath": "@PROJECT_PATH@",
-    "gitHubName": "javierasencio",
-    "gitHubPath": ""
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -207,7 +202,7 @@
           },
           "title": "Watch My Story&nbsp;",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=oA15nCBRtM0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Video Link</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=IV-VYouXR18\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Video Link</a>"
         },
         {
           "_styles": {
@@ -3390,8 +3385,8 @@
               {
                 "tags": "Awesome",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=oA15nCBRtM0",
-                "videoPreview": "@PROJECT_PATH@/2017-04-03_13-43-46.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=vXfBeIcNkA4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-02-21-29-54.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
                 "caption": "A Little Bit About Myself",
