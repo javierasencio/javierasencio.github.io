@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 225,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 226,
+    "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -727,7 +727,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/back-side-of-the-post-card-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/back-side-of-the-post-card-2000x1640.jpg",
                 "caption": "Back Side of the post card",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -757,7 +757,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/outline-of-a-lightning-with-fixed-measurements-2000x1640-1-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/outline-of-a-lightning-with-fixed-measurements-2000x1640-1.jpg",
                 "caption": "Lightning build",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "0",
@@ -2694,13 +2694,13 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-59",
+          "_anchor": "buttons1-69",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"javierasencio.github.io/Apple animation revised.fla\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD APPLE ANIMATION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"javierasencio.github.io/Apple animation revised.fla\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD APPLE ANIMATION</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"javierasencio.github.io/Fixed animation of the secret agent.fla\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD SECRET AGENT ANIMATION&nbsp;</a>"
         },
         {
           "_tags": [
