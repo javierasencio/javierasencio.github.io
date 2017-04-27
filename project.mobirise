@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.8",
     "uniqCompNum": 226,
-    "versionPublish": "3.10.8",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -757,7 +757,47 @@
                 "thumb": "@PROJECT_PATH@/assets/images/outline-of-a-lightning-with-fixed-measurements-2000x1640-1-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/outline-of-a-lightning-with-fixed-measurements-2000x1640-1.jpg",
                 "caption": "Lightning build",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/outline-of-agents-with-fixed-meausrements-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/outline-of-agents-with-fixed-meausrements-2000x1640.jpg",
+                "caption": "Outline of two Agents for Stork Aimation",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/outline-of-a-guitarbuild-with-fixed-meausrements-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/outline-of-a-guitarbuild-with-fixed-meausrements-2000x1640.jpg",
+                "caption": "Outline of a Guitar for Sights And Sounds of the 60",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-build-with-fixed-meausrements-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-build-with-fixed-meausrements-2000x1640.jpg",
+                "caption": "MDCPS Logo Build",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orcherstra-billboard-build-with-fixed-meausrements-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orcherstra-billboard-build-with-fixed-meausrements-2000x1640.jpg",
+                "caption": "Orchestra Billboard Build<br>",
+                "active": false
               }
             ],
             "spacing": "0",
