@@ -26,12 +26,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "publishPath": "@PROJECT_PATH@",
-    "gitHubName": "javierasencio",
-    "gitHubPath": ""
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -770,7 +765,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/outline-of-agents-with-fixed-meausrements-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/outline%20of%20agents%20with%20fixed%20meausrements-2000x1640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/outline-of-agents-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "Outline of two Agents for Stork Aimation",
                 "active": true
               },
@@ -780,7 +775,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/outline-of-a-guitarbuild-with-fixed-meausrements-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/outline%20of%20a%20guitarbuild%20with%20fixed%20meausrements-2000x1640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/outline-of-a-guitarbuild-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "Outline of a Guitar for Sights And Sounds of the 60",
                 "active": false
               },
@@ -790,7 +785,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-build-with-fixed-meausrements-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps%20logo%20build%20with%20fixed%20meausrements-2000x1640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-build-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "MDCPS Logo Build",
                 "active": false
               },
@@ -800,7 +795,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/orcherstra-billboard-build-with-fixed-meausrements-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/orcherstra%20billboard%20build%20with%20fixed%20meausrements-2000x1640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orcherstra-billboard-build-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "Orchestra Billboard Build<br>",
                 "active": false
               }
@@ -1146,7 +1141,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/image-for-stopping-gun-violencebuild-with-fixed-meausrements-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/image%20for%20stopping%20gun%20violencebuild%20with%20fixed%20meausrements-2000x1640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-for-stopping-gun-violencebuild-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "Build for stopping gun violence",
                 "active": false
               },
@@ -1156,7 +1151,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/masterpiece-reproductuion-build-with-fixed-meausrements-copy-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/masterpiece%20reproductuion%20build%20with%20fixed%20meausrements%20copy-2000x1640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/masterpiece-reproductuion-build-with-fixed-meausrements-copy-2000x1640.jpg",
                 "caption": "Master Piece Reproduction Build",
                 "active": true
               },
@@ -1166,7 +1161,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/little-maverick-build-with-fixed-meausrements-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/little%20maverick%20%20build%20with%20fixed%20meausrements-2000x1640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/little-maverick-build-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "Little Maverick logo build",
                 "active": false
               },
@@ -1176,7 +1171,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/poster-build-with-fixed-meausrements-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poster%20build%20with%20fixed%20meausrements-2000x1640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-build-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "Poster build for sights and sound of the 60's",
                 "active": false
               }
@@ -3471,7 +3466,7 @@
                 "tags": "Awesome",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=vXfBeIcNkA4",
-                "videoPreview": "@PROJECT_PATH@/2017-04-02_21-29-54.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-02-21-29-54.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
                 "caption": "A Little Bit About Myself",
