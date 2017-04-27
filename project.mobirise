@@ -1123,7 +1123,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/wynwood-poster-with-fixed-measurements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/wynwood-poster-with-fixed-measurements-2000x1640.jpg",
                 "caption": "Wynwood poster build \"If Walls Could Talk\"",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1133,6 +1133,46 @@
                 "thumb": "@PROJECT_PATH@/assets/images/front-and-back-of-the-cd-cover-with-fixed-measurements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/front-and-back-of-the-cd-cover-with-fixed-measurements-2000x1640.jpg",
                 "caption": "Front and back of the cd cover",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-for-stopping-gun-violencebuild-with-fixed-meausrements-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-for-stopping-gun-violencebuild-with-fixed-meausrements-2000x1640.jpg",
+                "caption": "Build for stopping gun violence",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masterpiece-reproductuion-build-with-fixed-meausrements-copy-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/masterpiece-reproductuion-build-with-fixed-meausrements-copy-2000x1640.jpg",
+                "caption": "Master Piece Reproduction Build",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/little-maverick-build-with-fixed-meausrements-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/little-maverick-build-with-fixed-meausrements-2000x1640.jpg",
+                "caption": "Little Maverick logo build",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-build-with-fixed-meausrements-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-build-with-fixed-meausrements-2000x1640.jpg",
+                "caption": "Poster build for sights and sound of the 60's",
                 "active": false
               }
             ],
