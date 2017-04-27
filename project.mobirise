@@ -1132,7 +1132,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/front-and-back-of-the-cd-cover-with-fixed-measurements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/front-and-back-of-the-cd-cover-with-fixed-measurements-2000x1640.jpg",
-                "caption": "Front and back of the cd cover",
+                "caption": "Front and back of a cd cover build",
                 "active": false
               },
               {
