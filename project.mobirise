@@ -26,7 +26,12 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "javierasencio",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
