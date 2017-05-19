@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Javier Asencio",
-    "currentPage": "index.html",
+    "currentPage": "Animation",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,12 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "javierasencio",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -7917,7 +7922,7 @@
                 "tags": "Animated",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=7LRQLpOBB6s",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-10-23-25.jpg",
+                "videoPreview": "@PROJECT_PATH@/2017-05-19_10-23-25.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
                 "caption": "A Thousand Million Reasons Build",
