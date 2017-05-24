@@ -26,12 +26,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "publishPath": "@PROJECT_PATH@",
-    "gitHubName": "javierasencio",
-    "gitHubPath": ""
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -791,7 +786,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/apple-measumerments-fixed-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/apple-measumerments-fixed-2000x1640.jpg",
-                "caption": "Outline of a background for animation&nbsp;",
+                "caption": "Outline of the background for animation&nbsp;",
                 "active": false
               },
               {
@@ -1107,7 +1102,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/secret-agent-fixed-with-measures-2000x1672-800x668.jpg",
                 "image": "@PROJECT_PATH@/assets/images/secret-agent-fixed-with-measures-2000x1672.jpg",
-                "caption": "Secret agents",
+                "caption": "Outline of Secret agents&nbsp;",
                 "active": false
               },
               {
@@ -1137,7 +1132,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/front-and-back-of-the-cd-cover-with-fixed-measurements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/front-and-back-of-the-cd-cover-with-fixed-measurements-2000x1640.jpg",
-                "caption": "Front and back of a cd cover build",
+                "caption": "CD cover build",
                 "active": false
               },
               {
