@@ -777,7 +777,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/outline-of-an-apple-for-animation-with-fixed-measurements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/outline-of-an-apple-for-animation-with-fixed-measurements-2000x1640.jpg",
                 "caption": "Outline of an Apple for animation",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -798,6 +798,26 @@
                 "image": "@PROJECT_PATH@/assets/images/orcherstra-billboard-build-with-fixed-meausrements-2000x1640.jpg",
                 "caption": "Orchestra Billboard Build<br>",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-build-with-no-corrections-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-build-with-no-corrections-2000x2000.jpg",
+                "caption": "Logo Build For Clothing&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-build-for-the-poster-2000x2010-800x804.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-build-for-the-poster-2000x2010.jpg",
+                "caption": "Miami Arts Studio BillBoard Build",
+                "active": true
               }
             ],
             "spacing": "0",
