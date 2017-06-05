@@ -1096,6 +1096,26 @@
             "paddingBottom": 0,
             "images": [
               {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/playbill-with-fixed-measures-2000x1676-800x670.jpg",
+                "image": "@PROJECT_PATH@/assets/images/playbill-with-fixed-measures-2000x1676.jpg",
+                "caption": "PlayBill build",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/inside-of-the-cd-cover-2000x1640-800x656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/inside-of-the-cd-cover-2000x1640.jpg",
+                "caption": "Inside of the playbill",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1122,17 +1142,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/battlefront-with-fixed-measures-2000x1676-800x670.jpg",
                 "image": "@PROJECT_PATH@/assets/images/battlefront-with-fixed-measures-2000x1676.jpg",
-                "caption": "Recorded actions in Photoshop&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/playbill-with-fixed-measures-2000x1676-800x670.jpg",
-                "image": "@PROJECT_PATH@/assets/images/playbill-with-fixed-measures-2000x1676.jpg",
-                "caption": "PlayBill build",
+                "caption": "Recording actions in Photoshop&nbsp;",
                 "active": false
               },
               {
@@ -1172,7 +1182,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/little-maverick-build-with-fixed-meausrements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/little-maverick-build-with-fixed-meausrements-2000x1640.jpg",
-                "caption": "Little Maverick logo build",
+                "caption": "Little Mavericks logo build",
                 "active": false
               },
               {
@@ -1182,17 +1192,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/poster-build-with-fixed-meausrements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/poster-build-with-fixed-meausrements-2000x1640.jpg",
-                "caption": "Poster build for sights and sound of the 60",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/inside-of-the-cd-cover-2000x1640-800x656.jpg",
-                "image": "@PROJECT_PATH@/assets/images/inside-of-the-cd-cover-2000x1640.jpg",
-                "caption": "Inside of the playbill",
+                "caption": "Poster build for sights and sound of the 60s",
                 "active": false
               },
               {
@@ -1212,7 +1212,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dvd-cover-with-fixed-measurements-2000x1640-800x656.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dvd-cover-with-fixed-measurements-2000x1640.jpg",
-                "caption": "Stork animation team cd cover",
+                "caption": "Stork animation (team cd cover)",
                 "active": false
               }
             ],
